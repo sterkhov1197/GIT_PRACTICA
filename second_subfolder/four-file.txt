@@ -1,1 +1,3 @@
 Four file text
+
+This file was modified in branch new-feature
